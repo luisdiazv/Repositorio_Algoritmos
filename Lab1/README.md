@@ -1,6 +1,7 @@
 # Repositorio_Algoritmos - Lab1 #
 
 *ludiazv_Lab1.ipynb*
+
 *Autor: Luis Alfonso Díaz Vegel*
 
 *Descripción:*
